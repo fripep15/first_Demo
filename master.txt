@@ -2,5 +2,6 @@ this my new file,
 
 how i got it, 
 
+I do some edits to see, what it say
 touch master.txt
 notepad master.txt
