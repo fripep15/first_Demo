@@ -1,0 +1,6 @@
+this my new file,
+
+how i got it, 
+
+touch master.txt
+notepad master.txt
